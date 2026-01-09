@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @JavadAliakbari
-- 👀 I’m interested in Machine Learning, Computer Vision and Data Science a
-- 🌱 I’m currently learning Web Scraping with Python 
-- 💞️ I’m looking to collaborate on Data Science and Deep Learning projects.
-- 📫 How to reach me:
-Email: JavadAliakbari0@gmail.com
+## Hi, I’m Javad 👋
 
-<!---
-JavadAliakbari/JavadAliakbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a PhD student at **Chalmers University of Technology**.  
+My research is mostly about **machine learning on graphs**, with a focus on **federated learning** and **privacy**.
+
+### 🔍 Interests
+- Machine Learning  
+- Graph Neural Networks (GNNs)  
+- Federated Learning  
+- Privacy-preserving learning  
+- Data Science  
+
+### 🧠 What I do
+I work on both theory and practice.  
+I like problems that connect math, algorithms, and real data.
+
+### 🤝 Collaboration
+I’m open to collaborations on:
+- Machine learning research  
+- Graph-based models  
+- Privacy-aware ML systems  
+
+### 📫 Contact
+- Email: **JavadAliakbari0@gmail.com**
+- GitHub: **@JavadAliakbari**
+
+---
+
+Thanks for stopping by 🙂
